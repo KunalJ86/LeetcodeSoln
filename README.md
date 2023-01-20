@@ -1,2 +1,2 @@
-# lcSoln
+# LeetcodeSoln
 Leetcode Questions Solutions
